@@ -4013,11 +4013,11 @@ textarea.form-control-lg {
 }
 
 .navbar {
-  position: relative;
+  position: fixed;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
